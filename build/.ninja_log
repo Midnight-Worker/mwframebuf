@@ -1,0 +1,6 @@
+# ninja log v7
+6	13862	8086130088203791	CMakeFiles/mwframebuffer.dir/src/mwframebuffer.cpp.obj	14d7a29854a4aa68
+13869	14501	8086130226819012	mwframebuffer.cp313-win_amd64.pyd	6abc7dbabe334b78
+35	855	8086136949842617	mwframebuffer.cp313-win_amd64.pyd	6abc7dbabe334b78
+26	11975	8086136949757372	CMakeFiles/mwframebuffer2.dir/src/mwframebuffer2.cpp.obj	d0a8722c705c5bd5
+11976	12834	8086137069254276	mwframebuffer2.cp313-win_amd64.pyd	6da4c6da1e6d348d

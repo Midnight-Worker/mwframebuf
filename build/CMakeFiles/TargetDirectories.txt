@@ -1,0 +1,4 @@
+C:/Users/maikt/Desktop/mwframebuff/build/CMakeFiles/mwframebuffer.dir
+C:/Users/maikt/Desktop/mwframebuff/build/CMakeFiles/mwframebuffer2.dir
+C:/Users/maikt/Desktop/mwframebuff/build/CMakeFiles/edit_cache.dir
+C:/Users/maikt/Desktop/mwframebuff/build/CMakeFiles/rebuild_cache.dir
